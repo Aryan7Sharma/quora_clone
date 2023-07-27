@@ -51,7 +51,8 @@ source [virtual enviroment name]/bin/activate --for linux user's
 
 
 ### Application step by step usages guided video
-<iframe width="560" height="315" src="https://drive.google.com/drive/u/2/folders/1CmwZHVRrU9fVEtirsl8sUSfdRUFjJbaU" frameborder="0" allowfullscreen></iframe>
+[Click to play the video]([https://example.com/path/to/your/video.mp4](https://drive.google.com/drive/u/2/folders/1CmwZHVRrU9fVEtirsl8sUSfdRUFjJbaU))
+
 
 
 
