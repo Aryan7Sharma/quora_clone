@@ -2,7 +2,7 @@
 Quora Clone using django.
 
 # go to Qoura-clone directory.
-cd Qoura-clone
+cd quora_clone-main
 
 ## Create an Python Virtual Environment for running an Project
 python -m venv [virtual enviroment name]
